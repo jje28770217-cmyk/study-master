@@ -1,0 +1,1 @@
+{"name":"pdf2json","version":"1.0.0","private":true,"type":"module","description":"PDF 문제 자료를 사회조사분석사 Study Master용 JSON으로 변환 (로컬에서만 동작)","bin":{"pdf2json":"convert.mjs"},"dependencies":{"pdfjs-dist":"^4.10.38"}}
